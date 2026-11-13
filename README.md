@@ -8,6 +8,7 @@ solutions to LeetCode problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ssreejita/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ssreejita/leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0119-pascals-triangle-ii](https://github.com/Ssreejita/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ssreejita/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -28,5 +29,6 @@ solutions to LeetCode problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Ssreejita/leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ssreejita/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
